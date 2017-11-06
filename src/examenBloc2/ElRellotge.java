@@ -48,6 +48,7 @@ public class ElRellotge {
 			}
 			System.out.println(hora + ":" + minut + ":" + segon);
 		}
+		reader.close();
 	}
 
 }

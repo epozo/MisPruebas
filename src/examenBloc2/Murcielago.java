@@ -61,7 +61,7 @@ public class Murcielago {
 			if (conto == 0) System.out.print("o");
 			if (contu == 0) System.out.print("u");
 		}
-
+		reader.close();
 
 	}
 

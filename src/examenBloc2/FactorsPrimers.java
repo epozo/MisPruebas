@@ -32,7 +32,7 @@ public class FactorsPrimers {
 			primer++;
 		}
 		System.out.println(num);
-		
+		reader.close();
 	}
 
 }
