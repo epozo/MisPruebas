@@ -9,7 +9,6 @@ import java.util.Scanner;
 		>  número de parells – número de senars = 3
 		> número de senars – número de parells = 3
 ·  Al final indicarà el número total de parells i senars introduïts
- * 
  */
 
 public class ParellSenar {

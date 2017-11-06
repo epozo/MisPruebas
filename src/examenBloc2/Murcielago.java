@@ -6,7 +6,6 @@ package examenBloc2;
  * fins trobar  ‘.’). El programa escriurà “TOTES” si durant la frase 
  * han aparegut totes les vocals, i “FALTEN” si falta alguna vocal.
  * Si  falta alguna vocal, indicarà quina/quines són les que falten.
-
  */
 
 import java.util.Scanner;

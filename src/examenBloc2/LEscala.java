@@ -9,6 +9,7 @@ L’algorisme acabarà quan l’usuari entri un número que sigui més petit que
 L’algorisme ens dirà la “llargada de l’escala”, és a dir, quants números hem introduït abans d’acabar.
  */
 
+
 public class LEscala {
 
 	public static void main(String[] args) {

@@ -2,7 +2,6 @@ package examenBloc2;
 
 /*
  * Factors primers
-
 Es demana un programa que descompongui un número donat d’entrada en tots els seus factors primers. 
 Els factors primers d’un número són aquells números primers que són divisors
  exactes d’aquest número. 

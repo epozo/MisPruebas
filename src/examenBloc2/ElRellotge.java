@@ -6,6 +6,7 @@ Escriure un programa que rebi com entrada un temps (hora, minut, segon) i
 ens mostri l’hora segon a segon fins que acabi el dia
  (arribem a les 00:00:00). Cal validar que les dades d’entrada siguin correctes.
  */
+
 import java.util.Scanner;
 
 public class ElRellotge {
